@@ -1,2 +1,2 @@
-workspaces { name = "Name of your terraform cloud workspace" }
-organization = "Name of your terraform cloud organization"
+workspaces { name = "aws-api-gateway-public" }
+organization = "AWS-Terraform-Projects"
